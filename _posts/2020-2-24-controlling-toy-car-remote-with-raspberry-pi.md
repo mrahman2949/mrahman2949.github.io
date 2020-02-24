@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Control remote control toy car with raspberry pi (Controlling the remote)
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Are you new to raspberry pi? May be you have never gone beyond making an LED blink. Well in that case I have just the project for you. This is fairly easy and simple way you can control a remote control car and make your own script to make the car run. 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
