@@ -13,6 +13,8 @@ Are you new to raspberry pi? May be you have never gone beyond making an LED bli
 - Raspberry pi (zero/2/3)
 - Breadboard
 - Jumper wires
+- Soldering Iron
+- Soldering Wire
 
 
 
