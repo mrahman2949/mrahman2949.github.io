@@ -8,7 +8,6 @@ Are you new to raspberry pi? May be you have never gone beyond making an LED bli
 **What you will need:**
 - An RC Toy Car with Wireless remote
 - 4 1k resistor
-- 8 10k resistor
 - 4 2N3904 Transistor
 - Raspberry pi (zero/2/3)
 - Breadboard
@@ -16,7 +15,8 @@ Are you new to raspberry pi? May be you have never gone beyond making an LED bli
 - Soldering Iron
 - Soldering Wire
 
-
+**Step 1**
+Pick the right toy car. For this project I went with a cheap 20 dollar RC Car from Walmart. 
 
 
 
