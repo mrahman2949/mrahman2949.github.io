@@ -14,9 +14,16 @@ Are you new to raspberry pi? May be you have never gone beyond making an LED bli
 - Jumper wires
 - Soldering Iron
 - Soldering Wire
+- Hot Glue Gun (Optional)
+- Lose wires (Two seperate colors)
+
+We are not going to go too deep into the world of electronics and taking apart every bits and pieces because we are still trying to make sense of all of this how all of the components work. So here is how we will start.
 
 **Step 1**
-Pick the right toy car. For this project I went with a cheap 20 dollar RC Car from Walmart. 
+
+Solder 4 of the wires to the 4 switches and mark them with a tape. [^1]
+
+[^1]You will need 4 control wires from the 4 switches on the controllers
 
 
 
