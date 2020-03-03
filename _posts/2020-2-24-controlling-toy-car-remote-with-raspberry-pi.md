@@ -3,7 +3,7 @@ layout: post
 title: Pi-Project - Controling the remote of a RC Car
 ---
 
-Are you new to raspberry pi? May be you have never gone beyond making an LED blink. Well in that case I have just the project for you. This is fairly easy and simple way you can control a remote control car and make your own script to make the car run. 
+Are you new to the beautiful world of pi? May be you have never gone beyond making an LED blink. Well in that case I have just the project for you. This is fairly easy and simple way you can control a remote control car and make your own script to make the car run. 
 
 **What you will need:**
 - An RC Toy Car with Wireless remote
