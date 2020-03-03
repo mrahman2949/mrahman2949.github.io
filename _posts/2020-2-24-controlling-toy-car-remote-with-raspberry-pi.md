@@ -23,7 +23,7 @@ We are not going to go too deep into the world of electronics and taking apart e
 
 Solder 4 of the wires to the 4 switches and mark them with a tape. [^1]
 
-[^1]You will need 4 control wires from the 4 switches on the controllers
+[^1]: You will need 4 control wires from the 4 switches on the controllers
 
 
 
